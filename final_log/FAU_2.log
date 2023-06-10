@@ -1,0 +1,5 @@
+current Na atom in display:
+index: 5
+position (original from .vasp): {8.73467667745514 5.100392588661829 3.5291988937860266}
+position (in periodic lattice from .cif) {8.73467667745514 5.100392588661828 3.529198893786026}
+decision: delete
