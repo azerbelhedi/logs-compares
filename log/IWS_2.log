@@ -1,0 +1,180 @@
+current Na atom in display:
+index: 0
+position (original from .vasp): {12.072105010406363 8.478390419818579 4.08989088765602}
+position (in periodic lattice from .cif) {12.072105010406363 8.478390419818579 4.089890887656021}
+decision: keep
+
+current Na atom in display:
+index: 1
+position (original from .vasp): {4.302159549532225 12.021048786726311 3.935622450754224}
+position (in periodic lattice from .cif) {4.302159549532226 12.021048786726311 3.935622450754225}
+decision: keep
+
+current Na atom in display:
+index: 2
+position (original from .vasp): {2.8843906199703317 12.34498056126531 -6.232827527307308}
+position (in periodic lattice from .cif) {2.710356175441976 12.562461011113312 7.155182071676733}
+decision: keep
+
+current Na atom in display:
+index: 3
+position (original from .vasp): {-0.0860508427489938 -1.7354751347568131 5.19466530262715}
+position (in periodic lattice from .cif) {27.21854186090992 25.93204523701852 5.183178969851261}
+decision: keep
+
+current Na atom in display:
+index: 4
+position (original from .vasp): {9.753201561999344 1.7205513288474836 -1.719335867725775}
+position (in periodic lattice from .cif) {9.57916711747099 1.938031778695486 11.668673731258266}
+decision: keep
+
+current Na atom in display:
+index: 5
+position (original from .vasp): {-10.017702598331262 -2.1108613817751203 -1.3018889903872621}
+position (in periodic lattice from .cif) {17.112855660799294 25.774139439848213 12.07463427582089}
+decision: keep
+
+current Na atom in display:
+index: 6
+position (original from .vasp): {1.9837520194268201 0.313981321368722 6.534299749685694}
+position (in periodic lattice from .cif) {1.98375201942682 0.3139813213687219 6.534299749685695}
+decision: keep
+
+current Na atom in display:
+index: 7
+position (original from .vasp): {2.680951812661029 -11.874256142425336 -6.682535269849776}
+position (in periodic lattice from .cif) {2.237877085401125 16.002695875031524 6.708086375190494}
+decision: keep
+
+current Na atom in display:
+index: 8
+position (original from .vasp): {-11.118475518023255 3.2206512729253665 2.7308783036907753}
+position (in periodic lattice from .cif) {16.455157468367208 3.2287000770918435 2.7167799248586566}
+decision: keep
+
+current Na atom in display:
+index: 9
+position (original from .vasp): {12.773074737862805 -0.8458180124987842 1.1859520770427308}
+position (in periodic lattice from .cif) {12.504034455131254 26.81365355511007 1.1885641230989614}
+decision: keep
+
+current Na atom in display:
+index: 10
+position (original from .vasp): {-2.144817212174993 0.5497838541113707 6.404447672859336}
+position (in periodic lattice from .cif) {25.42881577421547 0.5578326582778481 6.390349294027217}
+decision: keep
+
+current Na atom in display:
+index: 11
+position (original from .vasp): {0.0883581894537922 2.5575431473796013 5.068769409796793}
+position (in periodic lattice from .cif) {0.08835818945379223 2.5575431473796013 5.0687694097967935}
+decision: keep
+
+current Na atom in display:
+index: 12
+position (original from .vasp): {-10.990356656122431 2.614535392169313 -1.5095031019821852}
+position (in periodic lattice from .cif) {16.409241885739668 2.8400646461837926 11.864408118169736}
+decision: keep
+
+current Na atom in display:
+index: 13
+position (original from .vasp): {-12.061497829384962 -5.15066790400321 4.456747965389089}
+position (in periodic lattice from .cif) {15.24309487427395 22.51685246777212 4.4452616326132}
+decision: keep
+
+current Na atom in display:
+index: 14
+position (original from .vasp): {5.52378323800652 -11.842499143692173 4.452580081396146}
+position (in periodic lattice from .cif) {5.254742955274971 15.816972423916681 4.455192127452377}
+decision: keep
+
+current Na atom in display:
+index: 15
+position (original from .vasp): {8.544362249724532 -0.0526777065586174 1.9902815315740692}
+position (in periodic lattice from .cif) {8.275321966992983 27.606793861050235 1.9928935776302998}
+decision: keep
+
+current Na atom in display:
+index: 16
+position (original from .vasp): {-4.670800217842199 11.489094512744417 4.3825865702855475}
+position (in periodic lattice from .cif) {22.90283276854826 11.497143316910893 4.368488191453428}
+decision: keep
+
+current Na atom in display:
+index: 17
+position (original from .vasp): {-4.304953488125743 10.606790943926976 -3.4687548780622026}
+position (in periodic lattice from .cif) {23.094645053736365 10.832320197941456 9.905156342089718}
+decision: keep
+
+current Na atom in display:
+index: 18
+position (original from .vasp): {-11.62557133590776 -11.57147452165974 -0.0256510283447447}
+position (in periodic lattice from .cif) {15.504986923222797 16.313526299963595 13.350872237863408}
+decision: keep
+
+current Na atom in display:
+index: 19
+position (original from .vasp): {-7.957261896163461 0.770000227281223 -1.8097657423187945}
+position (in periodic lattice from .cif) {19.442336645698642 0.9955294812957026 11.564145477833128}
+decision: keep
+
+current Na atom in display:
+index: 20
+position (original from .vasp): {-2.163700579777783 12.20982849819068 6.501516600068758}
+position (in periodic lattice from .cif) {25.40993240661268 12.217877302357156 6.48741822123664}
+decision: keep
+
+current Na atom in display:
+index: 21
+position (original from .vasp): {-4.898787841499294 -12.919029972305896 -5.109718519423627}
+position (in periodic lattice from .cif) {22.231770417631264 14.965970849317436 8.266804746784524}
+decision: keep
+
+current Na atom in display:
+index: 22
+position (original from .vasp): {7.98966889469358 -1.9758918632222693 -0.5328132521570406}
+position (in periodic lattice from .cif) {7.546594167433675 25.90106015423459 12.85780839288323}
+decision: keep
+
+current Na atom in display:
+index: 23
+position (original from .vasp): {-3.278078323450843 -11.7978236945652 4.073065692492934}
+position (in periodic lattice from .cif) {24.026514380208067 15.869696677210134 4.0615793597170455}
+decision: keep
+
+current Na atom in display:
+index: 24
+position (original from .vasp): {5.774154060762602 -13.295746606986922 -4.603435657223927}
+position (in periodic lattice from .cif) {5.331079333502698 14.581205410469936 8.787185987816343}
+decision: keep
+
+current Na atom in display:
+index: 25
+position (original from .vasp): {11.902299023418443 2.716180745073838 3.7962409995886484}
+position (in periodic lattice from .cif) {11.902299023418443 2.716180745073838 3.796240999588649}
+decision: keep
+
+current Na atom in display:
+index: 26
+position (original from .vasp): {2.5877360361804262 -7.441108801692786 1.863777334082187}
+position (in periodic lattice from .cif) {2.3186957534488775 20.21836276591607 1.8663893801384177}
+decision: keep
+
+current Na atom in display:
+index: 27
+position (original from .vasp): {-9.054140513539696 -0.2449611663528811 1.5119477518766073}
+position (in periodic lattice from .cif) {18.250452190119216 27.422559205422452 1.5004614191007188}
+decision: keep
+
+current Na atom in display:
+index: 28
+position (original from .vasp): {-12.514616644338828 -0.13547493330988 5.152047614452373}
+position (in periodic lattice from .cif) {14.789976059320084 27.532045438465452 5.140561281676485}
+decision: keep
+
+current Na atom in display:
+index: 29
+position (original from .vasp): {10.642115921261874 -12.981323822440228 4.684862037983176}
+position (in periodic lattice from .cif) {10.373075638530326 14.678147745168628 4.6874740840394065}
+decision: keep
+
